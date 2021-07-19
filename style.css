@@ -1,0 +1,9 @@
+.panda-primary{
+    background-color: #fceae8;
+}
+.img-width{
+    width: 100px;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
